@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @thaissilveirabt
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning dev
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀  Estou interessada em me desenvolver na  área de dados
+- 🌱 I’m currently learning  engenharia de dados, RPA e Python
+- 📫  Você pode me encontrar no linkedin! Procurando por "Thaís Silveira"
 
 <!---
 thaissilveirabt/thaissilveirabt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
