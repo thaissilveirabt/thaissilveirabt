@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thaissilveirabt
 - 👀  Estou interessada em me desenvolver na  área de dados
-- 🌱 I’m currently learning  engenharia de dados, RPA e Python
+- 🌱 I’m currently learning  engenharia de dados, RPA, Power BI+ e Python
 - 📫  Você pode me encontrar no linkedin! Procurando por "Thaís Silveira"
 
 <!---
